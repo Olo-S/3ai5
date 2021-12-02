@@ -41,7 +41,7 @@ The above functionalities are tested and work according to their roles.
 
 ## Entity Relationship Diagram
 
-[link to diagram ERD in jpg][erd]
+https://github.com/Michal3456/3ai5/blob/d177a96db9500bb59320d043e60143565ade28cc/11/sprites/erd.png
 
 ## Organizational structure diagram
 
