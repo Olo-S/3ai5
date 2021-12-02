@@ -30,8 +30,7 @@ The above functionalities are tested and work according to their roles.
 
 
 ## Organizational structure diagram: 
-https://github.com/Michal3456/3bi4/blob/main/3/Untitled%20Diagram.drawio.png 
-
+https://github.com/xWikusia/wiktoria-czaplinska/blob/main/cw1/Diagram.png
 
 ## Cpecific functionalities
 
