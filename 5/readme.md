@@ -18,13 +18,13 @@ This project are display books in library and their review.
 
 | data | type |
 | ------ | ------ |
-| INPUT | reviews in scale 1 to 5 |
-| OUTPUT | average of reviews |
+| INPUT | photo |
+| OUTPUT | facial expression name |
 
 ## Main functionalities
 
 1. relational database based on SQL language
-1. frot-end created in JavaScript and CSS technologies
+1. front-end created in JavaScript and CSS technologies
 1. back-end executed in PHP language and auxiliary scripts
 
 The above functionalities are tested and work according to their roles.
