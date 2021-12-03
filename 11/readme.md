@@ -67,17 +67,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 [link to layout][form]
 
-## Sketch a database without establishing a relationship
 
-[link to sketch a database][db]
-
-## Example of an empty wireframe of the main form on a subpage
-
-[Wireframe empty][wireframeExample]
-
-## Wireframe the main form on the application subpage
-
-[Wireframe the main form][wireframeMain]
 
  [erd]: <https://github.com/Michal3456/3ai5/blob/7fd2663d2a71448cfe6eef5f70ba0650c758055c/11/spirtes/erdd.png>
  
