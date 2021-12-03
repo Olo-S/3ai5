@@ -36,11 +36,11 @@ The above functionalities are tested and work according to their roles.
 
 ## Entity Relationship Diagram
 
-[link to diagram ERD in jpg][erd]
+[link to diagram ERD in png][erd]
 
 ## Organizational structure diagram
 
-[link to diagram OSD in jpg][osd]
+[link to diagram OSD in png][osd]
 
 ## Cpecific functionalities
 
@@ -69,6 +69,6 @@ Dillinger uses a number of open source projects to work properly:
 
  [erd]: <https://github.com/Michal3456/3ai5/blob/main/1/sprites/ERD.png>
  
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
+ [osd]: <https://github.com/Michal3456/3ai5/blob/main/1/sprites/OSD.png>
  
  [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
