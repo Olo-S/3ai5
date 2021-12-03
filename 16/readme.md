@@ -62,3 +62,4 @@ A subsection that presents a detailed description of the individual functionalit
 - [Apache]
 
  [erd]: <https://github.com/Michal3456/3ai5/blob/main/16/sprites/Untitled%20Diagram.drawio.png>
+ [osd]: <https://github.com/Michal3456/3ai5/blob/main/16/sprites/Untitled%20Diagram.drawio%20(1).png>
