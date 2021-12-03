@@ -81,7 +81,7 @@ A subsection that presents a detailed description of the individual functionalit
 
  [erd]: <https://github.com/Michal3456/3ai5/blob/7fd2663d2a71448cfe6eef5f70ba0650c758055c/11/spirtes/erdd.png>
  
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
+ [osd]: <https://github.com/Michal3456/3ai5/blob/24df01d99b33043bfc4ecf0f948db02dd3bc7fdb/11/spirtes/diagram.png>
  
  [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
  
