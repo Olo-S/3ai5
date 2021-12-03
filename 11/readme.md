@@ -75,7 +75,7 @@ A subsection that presents a detailed description of the individual functionalit
  
  [osd]: <https://github.com/Michal3456/3ai5/blob/24df01d99b33043bfc4ecf0f948db02dd3bc7fdb/11/spirtes/diagram.png>
  
- [form]: <https://github.com/Michal3456/3ai5/blob/1536a6a73f5e3ff55a6b34db338cf9f94431585a/11/spirtes/layout.png>
+ [form]: <https://github.com/Michal3456/3ai5/blob/2368d0fa7128bd4c246ca5df19e299cc32c79536/11/spirtes/layoo.png>
  
  [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
  
