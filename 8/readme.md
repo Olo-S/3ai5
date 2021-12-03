@@ -66,7 +66,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 ## Layout for form in HTML
 
-[link to layout][form]
+https://github.com/Michal3456/3ai5/blob/main/8/sprites/layout.drawio.png
 
 ## Sketch a database without establishing a relationship
 
