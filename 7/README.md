@@ -23,7 +23,7 @@ The project is about game for CKZiU school.
 | data | type |
 | ------ | ------ |
 | INPUT | Nick |
-| OUTPUT | score |
+| OUTPUT | Score |
 
 ## Main functionalities
 
