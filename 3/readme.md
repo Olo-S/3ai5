@@ -30,6 +30,8 @@ https://github.com/Michal3456/3ai5/blob/main/3/sprites/diagram.png
 
 ## Organizational structure diagram: 
 
+https://github.com/Michal3456/3ai5/blob/main/3/sprites/osd.png
+
 
 ## Cpecific functionalities
 
