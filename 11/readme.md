@@ -14,7 +14,7 @@
 
 ## Abstract 
 
-The project concerns a system that allows displaying photos from selected events.
+The project concerns a system that allows displaying photos from selected events. The list will include the event available for viewing.
 
 ## Data structure
 
