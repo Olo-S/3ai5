@@ -24,9 +24,12 @@ The above functionalities are tested and work according to their roles.
 > The code contained in the project, does not contain malware and is safe to use. 
 > I am personally responsible for its operation: Wiktoria Czaplińska.
 
+## Entity Relationship Diagram
+
+https://github.com/Michal3456/3ai5/blob/main/3/diagram.png
 
 ## Organizational structure diagram: 
-https://github.com/Michal3456/3ai5/blob/main/3/diagram.png
+
 
 ## Cpecific functionalities
 
