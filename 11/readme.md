@@ -79,7 +79,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Wireframe the main form][wireframeMain]
 
- [erd]: <https://github.com/Michal3456/3ai5/blob/864dbbbebf4f21b423be00a965e3a0aa3bc52ee8/11/sprites/erd.png>
+ [erd]: <https://github.com/Michal3456/3ai5/blob/7fd2663d2a71448cfe6eef5f70ba0650c758055c/11/spirtes/erdd.png>
  
  [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
  
