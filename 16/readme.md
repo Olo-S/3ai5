@@ -61,4 +61,4 @@ A subsection that presents a detailed description of the individual functionalit
 - [MySql/MariaDb]
 - [Apache]
 
- [erd]: <https://github.com/Michal3456/3ai5/blob/main/16/sprites/diagram.PNG>
+ [erd]: <https://github.com/Michal3456/3ai5/blob/main/16/sprites/Untitled%20Diagram.drawio.png>
