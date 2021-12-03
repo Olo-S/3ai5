@@ -20,8 +20,8 @@ The project concerns a system that allows displaying photos from selected events
 
 | data | type |
 | ------ | ------ |
-| INPUT | 3 pictures |
-| OUTPUT | displayed pictures |
+| INPUT | data form |
+| OUTPUT | pictures from event |
 
 ## Main functionalities
 
