@@ -1,4 +1,4 @@
-# Library
+# Facial Expression Recognition System
 
 ## _contractor: Michał Ewertowski_
 ## _principal: Michał Czerwiński_
@@ -7,13 +7,13 @@
 | dossier version | date | description |
 | ------ | ------ | ------ |
 | 1.0 | 02.12.2021 | none |
-| 1.1 | 02.11.2021 | adding ERD |
+| 1.1 | 02.12.2021 | adding ERD |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-This project are display books in library and their review.
+Application recognizes facial expressions after photos entered by user. 
 ## Data structure
 
 | data | type |
@@ -32,7 +32,7 @@ The above functionalities are tested and work according to their roles.
 > As a contractor on the project, I certify that the above functionality 
 > does not compromise cyberspace or any other space of any state. 
 > The code contained in the project, does not contain malware and is safe to use. 
-> I am personally responsible for its operation: Kamil Błaszkiewicz.
+> I am personally responsible for its operation: Michał Ewertowski.
 
 ## Entity Relationship Diagram
 
@@ -42,13 +42,13 @@ The above functionalities are tested and work according to their roles.
 
 [link to diagram OSD in jpg][osd]
 
-## Cpecific functionalities
+## Specific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
 
 ### Relational database based on SQL language
 
-### Frot-end created in JavaScript and CSS technologies
+### Front-end created in JavaScript and CSS technologies
 
 ### Back-end executed in PHP language and auxiliary scripts
 
