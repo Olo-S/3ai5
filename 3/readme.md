@@ -8,10 +8,6 @@
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 17.11.2021 | adding ERD |
-| 1.2 | 25.11.2021 | adding organizational structure |
-| 1.3 | 26.11.2021 | adding layout form in HTML |
-| 1.4 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
-| 1.5 | 30.11.2021 | add wireframes |
 
 ## Abstract 
 the project concerns displaying a page with support for a 3D printer.
@@ -30,7 +26,7 @@ The above functionalities are tested and work according to their roles.
 
 
 ## Organizational structure diagram: 
-https://github.com/xWikusia/wiktoria-czaplinska/blob/main/cw1/Diagram.png
+https://github.com/Michal3456/3ai5/blob/main/3/diagram.png
 
 ## Cpecific functionalities
 
