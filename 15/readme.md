@@ -71,4 +71,4 @@ Dillinger uses a number of open source projects to work properly:
  
  [osd]: <https://github.com/Michal3456/3ai5/blob/main/15/Spriters/OSD.png>
  
- [form]: <https://github.com/Michal3456/3ai5/blob/main/15/Spriters/Layout.png>
+ [form]: <https://github.com/Michal3456/3ai5/blob/main/15/Spriters/Layout%20(1).png>
