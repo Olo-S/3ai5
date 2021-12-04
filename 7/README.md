@@ -44,7 +44,7 @@ The above functionalities are tested and work according to their roles.
 
 ## Organizational structure diagram
 
-[link to diagram OSD in jpg][osd]
+[link to diagram OSD in jpg](https://github.com/Michal3456/3ai5/blob/main/7/spirites/ORGchart.jpg)
 
 ## Cpecific functionalities
 
