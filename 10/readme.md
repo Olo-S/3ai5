@@ -80,11 +80,11 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Wireframe the main form][wireframeMain]
 
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ [erd]: <https://github.com/Michal3456/3ai5/blob/4f0bd7addf158511764cd80e232a564e9105cae4/10/sprites/Diagram.png>
  
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
+ [osd]: <https://github.com/Michal3456/3ai5/blob/4f0bd7addf158511764cd80e232a564e9105cae4/10/sprites/Org.png>
  
- [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
+ [form]: <https://github.com/Michal3456/3ai5/blob/4f0bd7addf158511764cd80e232a564e9105cae4/10/sprites/Form.png>
  
  [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
  
