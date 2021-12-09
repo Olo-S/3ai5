@@ -20,7 +20,7 @@ The project is designed to help beginners to create a training plan along with a
 
 | data | type |
 | ------ | ------ |
-| INPUT | information about the goals, time and health of the client |
+| INPUT | information about the goals, time, weight and height of the client |
 | OUTPUT | arranged plan along with the diet |
 
 ## Main functionalities
@@ -67,9 +67,9 @@ A subsection that presents a detailed description of the individual functionalit
 
 [link to layout][form]
 
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ [erd]: <https://github.com/Michal3456/3ai5/blob/main/9/sprites/diagram.drawio.png>
  
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
+ [osd]: <https://github.com/Michal3456/3ai5/blob/main/9/sprites/orgchart.drawio.png>
  
- [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
+ [form]: <https://github.com/Michal3456/3ai5/blob/main/9/sprites/layout.drawio.png>
  
