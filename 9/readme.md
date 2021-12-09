@@ -14,13 +14,14 @@
 
 ## Abstract 
 
+The project is designed to help beginners to create a training plan along with a diet based on a few data. It will display your exercise plan and diet schedule.
 
 ## Data structure
 
 | data | type |
 | ------ | ------ |
-| INPUT | data form |
-| OUTPUT | room reservation message and database entry |
+| INPUT | information about the goals, time and health of the client |
+| OUTPUT | arranged plan along with the diet |
 
 ## Main functionalities
 
