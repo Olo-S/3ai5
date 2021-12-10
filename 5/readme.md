@@ -71,10 +71,6 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to sketch a database](https://github.com/Michal3456/3ai5/blob/main/5/sprites/Database.png)
 
-## Example of an empty wireframe of the main form on a subpage
-
-[Wireframe empty][wireframeExample]
-
 ## Wireframe the main form on the application subpage
 
-[Wireframe the main form][wireframeMain]
+[Wireframe the main form](https://github.com/Michal3456/3ai5/blob/main/5/sprites/Wireframe.PNG)
