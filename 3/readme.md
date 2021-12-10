@@ -60,7 +60,7 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Sketch a database without establishing a relationship
 
-[link to sketch a database][https://github.com/Michal3456/3ai5/blob/main/3/sprites/database.png]
+[link to sketch a database][db]
 
 ## Example of an empty wireframe of the main form on a subpage
 
@@ -76,7 +76,7 @@ Dillinger uses a number of open source projects to work properly:
  
  [form]: <https://github.com/Michal3456/3ai5/blob/main/3/sprites/layout.png>
  
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
+ [db]: <https://github.com/Michal3456/3ai5/blob/main/3/sprites/database.png>
  
  [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
  
