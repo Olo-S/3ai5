@@ -10,7 +10,7 @@
 | 1.1 | 26.11.2021 | adding ERD |
 | 1.2 | 03.12.2021 | adding OSD |
 | 1.3 | 03.12.2021 | adding FORM |
-
+| 1.4 | 10.12.2021 | adding DATABASE |
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
