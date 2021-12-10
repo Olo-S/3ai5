@@ -81,6 +81,6 @@ A subsection that presents a detailed description of the individual functionalit
  
  [db]: <https://github.com/Michal3456/3ai5/blob/main/4/db.jpg>
  
- [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
+ [wireframeMain]: <https://github.com/Michal3456/3ai5/blob/main/4/Wireframe.PNG>
  
  [wireframeExample]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>
