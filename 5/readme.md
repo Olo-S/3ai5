@@ -75,7 +75,7 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Sketch a database without establishing a relationship
 
-[link to sketch a database][https://github.com/Michal3456/3ai5/blob/main/5/sprites/Database.png]
+[link to sketch a database](https://github.com/Michal3456/3ai5/blob/main/5/sprites/Database.png)
 
 ## Example of an empty wireframe of the main form on a subpage
 
