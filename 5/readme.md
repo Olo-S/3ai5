@@ -40,7 +40,7 @@ The above functionalities are tested and work according to their roles.
 
 ## Organizational structure diagram
 
-[link to diagram OSD in jpg][osd]
+[link to diagram OSD in jpg](https://github.com/Michal3456/3ai5/blob/main/5/sprites/OSD.png)
 
 ## Specific functionalities
 
@@ -65,13 +65,7 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Layout for form in HTML
 
-[link to layout][form]
-
- [erd]: <https://github.com/Michal3456/3ai5/blob/main/5/sprites/ERD.png>
- 
- [osd]: <https://github.com/Michal3456/3ai5/blob/main/5/sprites/OSD.png>
- 
- [form]: <https://github.com/Michal3456/3ai5/blob/main/5/sprites/Layout.png>
+[link to layout](https://github.com/Michal3456/3ai5/blob/main/5/sprites/Layout.png)
 
 ## Sketch a database without establishing a relationship
 
@@ -80,3 +74,7 @@ Dillinger uses a number of open source projects to work properly:
 ## Example of an empty wireframe of the main form on a subpage
 
 [Wireframe empty][wireframeExample]
+
+## Wireframe the main form on the application subpage
+
+[Wireframe the main form][wireframeMain]
