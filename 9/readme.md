@@ -10,6 +10,7 @@
 | 1.1 | 03.12.2021 | adding ERD |
 | 1.2 | 03.12.2021 | adding ORD |
 | 1.3 | 10.12.2021 | adding layout form in HTML |
+| 1.4 | 10.12.2021 | database with only tables - sketch a database without establishing a relationship |
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
@@ -44,6 +45,10 @@ The above functionalities are tested and work according to their roles.
 
 [link to diagram OSD in jpg][osd]
 
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
@@ -72,4 +77,6 @@ A subsection that presents a detailed description of the individual functionalit
  [osd]: <https://github.com/Michal3456/3ai5/blob/main/9/sprites/orgchart.drawio.png>
  
  [form]: <https://github.com/Michal3456/3ai5/blob/main/9/sprites/layout.drawio.png>
+ 
+ [db]: <https://github.com/Michal3456/3ai5/blob/main/9/sprites/database_sketch.drawio.png>
  
