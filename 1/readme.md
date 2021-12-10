@@ -75,7 +75,7 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Example of an empty wireframe of the main form on a subpage
 
-[Wireframe][wireframe]
+[link to wireframe][wireframe]
 
  [erd]: <https://github.com/Michal3456/3ai5/blob/main/1/sprites/ERD.png>
  
