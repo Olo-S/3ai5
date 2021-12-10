@@ -50,6 +50,10 @@ The above functionalities are tested and work according to their roles.
 
 [link to sketch a database][db]
 
+## Wireframe the main form on the application subpage
+
+[Wireframe the main form][wireframeMain]
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
