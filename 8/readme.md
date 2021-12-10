@@ -69,7 +69,7 @@ https://github.com/Michal3456/3ai5/blob/main/8/sprites/layout.drawio.png
 
 ## Sketch a database without establishing a relationship
 
-[link to sketch a database][db]
+https://github.com/Michal3456/3ai5/blob/main/8/sprites/database.png
 
 ## Example of an empty wireframe of the main form on a subpage
 
