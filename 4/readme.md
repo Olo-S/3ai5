@@ -22,7 +22,7 @@ After entering the name and surname of the person, the program will show its loc
 | data | type |
 | ------ | ------ |
 | INPUT | data form |
-| OUTPUT | room reservation message and database entry |
+| OUTPUT | the location of a given person |
 
 ## Main functionalities
 
