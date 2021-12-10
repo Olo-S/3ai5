@@ -51,6 +51,10 @@ The above functionalities are tested and work according to their roles.
 ## Sketch a database without establishing a relationship
 [link to data base in jpg][db]
 
+## Wireframe the main form on the application subpage
+
+[link to wireframe][wireframe]
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
@@ -83,6 +87,8 @@ A subsection that presents a detailed description of the individual functionalit
  [form]: <https://github.com/Michal3456/3ai5/blob/61922f6e4d110f74d2ff27b9e1a8d1ec156afbd1/11/spirtes/lay.png>
  
  [db]: <https://github.com/Michal3456/3ai5/blob/0474d083f562af35185f644b88f3423b00c7074a/11/spirtes/database.png>
+ 
+ [wireframe]: <https://github.com/Michal3456/3ai5/blob/51b25fea5ae992205f8daa04450bc52f57bf6ed7/11/spirtes/wireframe1.PNG>
  
  [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
  
