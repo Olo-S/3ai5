@@ -83,6 +83,6 @@ Dillinger uses a number of open source projects to work properly:
  
  [form]: <https://github.com/Michal3456/3ai5/blob/main/1/sprites/FORM.png>
  
- [wireframe]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>
+ [wireframe]: <https://github.com/Michal3456/3ai5/blob/main/1/sprites/wireframe.png>
  
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
+ [db]: <https://github.com/Michal3456/3ai5/blob/main/1/sprites/database.png>
