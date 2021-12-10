@@ -73,13 +73,9 @@ A subsection that presents a detailed description of the individual functionalit
 
 [link to sketch a database](https://github.com/Michal3456/3ai5/blob/main/7/spirites/database.drawio.png)
 
-## Example of an empty wireframe of the main form on a subpage
-
-[Wireframe empty][wireframeExample]
-
 ## Wireframe the main form on the application subpage
 
-[Wireframe the main form][wireframeMain]
+[Wireframe the main form](https://github.com/Michal3456/3ai5/blob/main/7/spirites/wireframe.PNG)
 
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
  
