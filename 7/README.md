@@ -71,7 +71,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 ## Sketch a database without establishing a relationship
 
-[link to sketch a database][db]
+[link to sketch a database](https://github.com/Michal3456/3ai5/blob/main/7/spirites/database.drawio.png)
 
 ## Example of an empty wireframe of the main form on a subpage
 
