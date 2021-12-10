@@ -69,8 +69,20 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to layout][form]
 
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
+## Example of an empty wireframe of the main form on a subpage
+
+[Wireframe empty][wireframeExample]
+
  [erd]: <https://github.com/Michal3456/3ai5/blob/main/1/sprites/ERD.png>
  
  [osd]: <https://github.com/Michal3456/3ai5/blob/main/1/sprites/OSD.png>
  
  [form]: <https://github.com/Michal3456/3ai5/blob/main/1/sprites/FORM.png>
+ 
+ [wireframeExample]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>
+ 
+ [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
