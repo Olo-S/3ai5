@@ -11,6 +11,7 @@
 | 1.2 | 03.12.2021 | adding ORD |
 | 1.3 | 10.12.2021 | adding layout form in HTML |
 | 1.4 | 10.12.2021 | database with only tables - sketch a database without establishing a relationship |
+| 1.5 | 30.11.2021 | add wireframes |
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
@@ -72,6 +73,10 @@ A subsection that presents a detailed description of the individual functionalit
 
 [link to sketch a database][db]
 
+## Wireframe the main form on the application subpage
+
+[Wireframe the main form][wireframeMain]
+
  [erd]: <https://github.com/Michal3456/3ai5/blob/main/9/sprites/diagram.drawio.png>
  
  [osd]: <https://github.com/Michal3456/3ai5/blob/main/9/sprites/orgchart.drawio.png>
@@ -80,3 +85,4 @@ A subsection that presents a detailed description of the individual functionalit
  
  [db]: <https://github.com/Michal3456/3ai5/blob/main/9/sprites/database_sketch.drawio.png>
  
+ [wireframeMain]: <https://github.com/Michal3456/3ai5/blob/main/9/sprites/wireframe.png>
