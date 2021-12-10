@@ -18,8 +18,8 @@ This project are display books in library and their review.
 
 | data | type |
 | ------ | ------ |
-| INPUT | reviews in scale 1 to 5 |
-| OUTPUT | average of reviews |
+| INPUT |  |
+| OUTPUT | |
 
 ## Main functionalities
 
