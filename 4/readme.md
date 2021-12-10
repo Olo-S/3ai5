@@ -45,6 +45,10 @@ The above functionalities are tested and work according to their roles.
 
 [link to diagram OSD in jpg][osd]
 
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
@@ -67,18 +71,6 @@ A subsection that presents a detailed description of the individual functionalit
 ## Layout for form in HTML
 
 [link to layout][form]
-
-## Sketch a database without establishing a relationship
-
-[link to sketch a database][db]
-
-## Example of an empty wireframe of the main form on a subpage
-
-[Wireframe empty][wireframeExample]
-
-## Wireframe the main form on the application subpage
-
-[Wireframe the main form][wireframeMain]
 
  [erd]: <https://github.com/Michal3456/3ai5/blob/main/4/ERD.jpg>
  
