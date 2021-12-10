@@ -1,4 +1,4 @@
-# Library
+# App for a courier company, package tracker
 
 ## _contractor: Łukasz Trawicki_
 ## _principal: Michał Czerwiński_
@@ -13,7 +13,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-This project are display books in library and their review.
+
 ## Data structure
 
 | data | type |
