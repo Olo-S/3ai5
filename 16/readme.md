@@ -67,6 +67,12 @@ A subsection that presents a detailed description of the individual functionalit
 
 [link to layout][form]
 
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
+
  [erd]: <https://github.com/Michal3456/3ai5/blob/main/16/sprites/Untitled%20Diagram.drawio.png>
  [osd]: <https://github.com/Michal3456/3ai5/blob/main/16/sprites/Untitled%20Diagram.drawio%20(1).png>
  [form]: <https://github.com/Michal3456/3ai5/blob/main/16/sprites/Untitled%20Diagram.drawio%20(2).png>
+ [db]: <https://github.com/Michal3456/3ai5/blob/main/16/sprites/Untitled%20Diagram.drawio(3)%20(1).png>
