@@ -9,7 +9,7 @@
 | 1.0 | 03.12.2021 | none |
 | 1.1 | 03.12.2021 | adding ERD |
 | 1.2 | 03.12.2021 | adding ORD |
-| 1.3 | 10.12.2021 | adding layout |
+| 1.3 | 10.12.2021 | adding layout form in HTML |
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
