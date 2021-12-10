@@ -36,7 +36,7 @@ The above functionalities are tested and work according to their roles.
 
 ## Entity Relationship Diagram
 
-[link to diagram ERD in jpg][erd]
+[link to diagram ERD in jpg](https://github.com/Michal3456/3ai5/blob/main/5/sprites/ERD.png)
 
 ## Organizational structure diagram
 
@@ -80,19 +80,3 @@ Dillinger uses a number of open source projects to work properly:
 ## Example of an empty wireframe of the main form on a subpage
 
 [Wireframe empty][wireframeExample]
-
-## Wireframe the main form on the application subpage
-
-[Wireframe the main form][wireframeMain]
-
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
- 
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
- 
- [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
- 
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
- 
- [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
- 
- [wireframeExample]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>
